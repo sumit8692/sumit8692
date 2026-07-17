@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- Spider-Man overlapping on header 🕷️ -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%"><tr>
-<td width="100%" style="position:relative">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:173054&height=250&section=header&text=Hi%20there!%20I'm%20Sumit.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20huge%20Spider-Man%20fan%E2%80%94but%20then%20again,%20who%20isn't?%20I'm%20also%20a%20software%20developer%20who%20enjoys%20turning%20ideas%20into%20code.&descSize=14&descAlignY=55&descAlign=50" />
-</td>
-<td width="150" valign="top">
-<img alt="Spider-Man Hanging" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
-</td>
-</tr></table>
+<img alt="Spider-Man Hanging" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
+
+# Hi there! I'm Sumit.
+
+I'm a huge Spider-Man fan—but then again, who isn't? I'm also a software developer who enjoys turning ideas into code.
 
 <!-- Animated Typing -->
 <a href="https://github.com/sumit8692">
