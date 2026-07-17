@@ -1,5 +1,5 @@
 <!-- Hanging Spider-Man 🕷️ -->
-<img align="right" alt="Spider-Man Hanging" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Spider-Man Hanging" width="250" src="https://media1.tenor.com/m/-6_IzXR0W9YAAAAd/web-swinging-spider-man.gif">
 
 <div align="center">
 
