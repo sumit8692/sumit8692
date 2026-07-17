@@ -2,7 +2,7 @@
 
 <img alt="Spider-Man Hanging" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
 
-# Hi there! I'm Sumit 👋
+# Hi there! I'm Sumit 🕷️
 
 <div align="left">
 
