@@ -1,7 +1,7 @@
-<!-- Hanging Spider-Man 🕷️ -->
-<img align="right" alt="Spider-Man Hanging" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
-
 <div align="center">
+
+<!-- Hanging Spider-Man 🕷️ -->
+<img alt="Spider-Man Hanging" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
 
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=220&section=header&text=Hey%20there!%20I'm%20Sumit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20NYU%20Grad%20Student%20%7C%20Builder&descSize=18&descAlignY=55&descAlign=50" />
