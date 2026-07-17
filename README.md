@@ -1,3 +1,6 @@
+<!-- Hanging Spider-Man 🕷️ -->
+<img align="right" alt="Spider-Man Hanging" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 <div align="center">
 
 <!-- Animated Header Wave -->
@@ -22,7 +25,7 @@ const sumit = {
     pronouns: "he" | "him",
     location: "New York City 🗽",
     education: "NYU (New York University) 🎓",
-    email: "sks9535@nyu.edu.com",
+    email: "sks9535@nyu.edu",
     currentlyBuilding: ["GenAI Apps", "Full-Stack Projects", "Open Source"],
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
