@@ -8,7 +8,7 @@ I'm a huge Spider-Man fan—but then again, who isn't? I'm also a software devel
 
 <!-- Animated Typing -->
 <a href="https://github.com/sumit8692">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8E%A8+I+turn+ideas+into+code;%F0%9F%9A%80+Full-Stack+%7C+GenAI+%7C+Web3;%F0%9F%8C%9F+Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9E2A2B&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8E%A8+I+turn+ideas+into+code;%F0%9F%9A%80+Full-Stack+%7C+GenAI+%7C+Web3;%F0%9F%8C%9F+Always+building+something+cool!" alt="Typing SVG" />
 </a>
 
 <br/>
