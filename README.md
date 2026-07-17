@@ -2,94 +2,106 @@
 
 <img alt="Spider-Man Hanging" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
 
-# Hi there! I'm Sumit.
+# Hi there! I'm Sumit 👋
 
-I'm a huge Spider-Man fan—but then again, who isn't? I'm also a software developer who enjoys turning ideas into code.
+<div align="left">
+
+🕷️ Huge Spider-Man fan.  
+💻 MS in Computer Science at NYU.  
+🚀 Building scalable full-stack and AI-powered applications.  
+☁️ Interested in distributed systems, backend engineering, and machine learning.
+
+</div>
+
+<br/>
 
 <!-- Animated Typing -->
 <a href="https://github.com/sumit8692">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9E2A2B&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%8E%A8+I+turn+ideas+into+code;%F0%9F%9A%80+Full-Stack+%7C+GenAI+%7C+Web3;%F0%9F%8C%9F+Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9E2A2B&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%8E%A8+I+turn+ideas+into+code;%F0%9F%9A%80+AI%2FML+%7C+Cloud+%7C+Distributed+Systems+%7C+Backend;%F0%9F%8C%9F+Always+building+something+cool!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Fun animated line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🕸️ 🕸️ 🕸️ 🕸️ 🕸️
 
 </div>
+
+## 🚀 Featured Projects
+
+- **[🌳 Treestagram](https://github.com/sumit8692/treestagram)**: Instagram for Trees built with Svelte + Django
+- **[📄 SVG Scaling Laws](https://github.com/sumit8692/svg-scaling-laws)**: Research on transformer scaling for SVG generation
+- **[🤖 AI Resume Analyzer](https://github.com/sumit8692/ai-resume-analyzer)**: Automated resume evaluation utilizing LLMs
+- **[📺 YouTube Clone](https://github.com/sumit8692/youtube-clone)**: A responsive YouTube clone built using React, Firebase and Material UI
+- **[🐧 xv6 Operating System Scheduler](https://github.com/sumit8692/xv6-scheduler)**: Custom scheduler implementation for xv6
+
+<br/>
 
 ## 🧑‍💻 About Me
 
 ```javascript
 const sumit = {
-    pronouns: "he" | "him",
+    role: "MSCS Student @ NYU",
     location: "New York City 🗽",
-    education: "NYU (New York University) 🎓",
-    email: "sks9535@nyu.edu",
-    currentlyBuilding: ["GenAI Apps", "Full-Stack Projects", "Open Source"],
-    funFact: "I debug with console.log and I'm not ashamed 😄"
+    interests: [
+        "Backend Engineering",
+        "Distributed Systems",
+        "AI",
+        "Cloud"
+    ],
+    currentlyLearning: [
+        "Django",
+        "Docker",
+        "AWS",
+        "LLMs"
+    ],
+    funFact: "I believe every bug has a story."
 };
 ```
 
-<div align="center">
+<br/>
 
-| 🔭 Currently Working On | 🌱 Currently Learning | ⚡ Fun Fact |
-|:---:|:---:|:---:|
-| GenAI & Full-Stack Apps | AI/ML, Cloud, Web3 | I think semicolons are optional 😏 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 Tech Arsenal
+## 🎯 Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" alt="Languages" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,vite,redux,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,express,svelte&theme=dark" alt="Frameworks" />
 </p>
 
-### 🛢️ Databases & Cloud
+### ☁️ Cloud & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,sqlite,docker,aws&theme=dark" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,sqlite&theme=dark" alt="Cloud" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,graphql,linux,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,githubactions,postman&theme=dark" alt="Tools" />
 </p>
 
 </div>
 
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumit8692&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit8692&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=888888" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumit8692&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=9E2A2B&icon_color=9E2A2B&text_color=FFFFFF&ring_color=9E2A2B" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit8692&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=9E2A2B&ring=9E2A2B&fire=9E2A2B&currStreakLabel=9E2A2B&sideLabels=9E2A2B&dates=FFFFFF" alt="GitHub Streak" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit8692&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit8692&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=9E2A2B&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit8692&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ## 🐍 Contribution Graph
 
@@ -103,42 +115,29 @@ const sumit = {
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit8692&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&area_color=4ECDC4&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="95%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎵 Vibes
+## 📬 Let's Connect!
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"With great power comes great responsibility."* 🕷️
 
 <br/>
 
-### 🌈 Profile Views Counter
-<img src="https://komarev.com/ghpvc/?username=sumit8692&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
-
-### 📬 Let's Connect!
-<a href="mailto:sumit8692@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://linkedin.com/in/sumit8692">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="https://github.com/sumit8692">
-  <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://sumit8692.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:sks9535@nyu.edu">
+  <img src="https://img.shields.io/badge/Email-9E2A2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Resume_PDF-000000?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Resume" />
 </a>
 
 <br/><br/>
 
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+🕸️ *Friendly Neighborhood Software Developer* 🕸️
 
 </div>
-
-<br/>
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" />
