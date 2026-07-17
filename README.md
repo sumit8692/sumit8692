@@ -73,24 +73,7 @@ const sumit = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏗️ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sumit8692/Scholarly-insight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit8692&repo=Scholarly-insight&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF" alt="Scholarly Insight" />
-</a>
-<a href="https://github.com/sumit8692/youtube_clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit8692&repo=youtube_clone&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF" alt="YouTube Clone" />
-</a>
-<a href="https://github.com/sumit8692/Postaway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit8692&repo=Postaway&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF" alt="Postaway" />
-</a>
-<a href="https://github.com/sumit8692/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit8692&repo=task-manager&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF" alt="Task Manager" />
-</a>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
