@@ -9,7 +9,7 @@
 🕷️ Huge Spider-Man fan.  
 💻 MS in Computer Science at NYU.  
 🚀 Building scalable full-stack and AI-powered applications.  
-☁️ Interested in distributed systems, backend engineering, and machine learning.
+☁️ Interested in Full Stack applications, GenAI, distributed systems, backend engineering, and machine learning.
 
 </div>
 
@@ -123,17 +123,11 @@ const sumit = {
 
 <br/>
 
-<a href="https://linkedin.com/in/sumit8692">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="mailto:sumit8692@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-9E2A2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://sumit8692.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:sks9535@nyu.edu">
-  <img src="https://img.shields.io/badge/Email-9E2A2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Resume_PDF-000000?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Resume" />
+<a href="https://github.com/sumit8692">
+  <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
