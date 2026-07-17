@@ -3,7 +3,7 @@
 <!-- Spider-Man overlapping on header 🕷️ -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%"><tr>
 <td width="100%" style="position:relative">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Hey%20there!%20I'm%20Sumit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20NYU%20Grad%20Student%20%7C%20Builder&descSize=18&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Hi%20there!%20I'm%20Sumit.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20huge%20Spider-Man%20fan%E2%80%94but%20then%20again,%20who%20isn't?%20I'm%20also%20a%20software%20developer%20who%20enjoys%20turning%20ideas%20into%20code.&descSize=14&descAlignY=55&descAlign=50" />
 </td>
 <td width="150" valign="top">
 <img alt="Spider-Man Hanging" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG16OTV4NTNjd2IxYjlrazFuajlvaDJneHRpaGlxY2g4MjNheWRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PEoPSKzbDZaBFycxME/giphy.gif">
