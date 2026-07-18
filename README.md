@@ -6,7 +6,7 @@
 
 <div align="left">
 
-🕷️ Huge Spider-Man fan.  
+🕷️ Big fan — Spider-Man
 💻 MS in Computer Science at NYU.  
 🚀 Building scalable full-stack and AI-powered applications.  
 ☁️ Interested in Full Stack applications, GenAI, distributed systems, backend engineering, and machine learning.
