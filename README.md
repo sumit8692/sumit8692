@@ -51,6 +51,7 @@ const sumit = {
     currentlyLearning: [
         "Django",
         "Docker",
+        "Kubernetes",
         "AWS",
         "LLMs"
     ],
@@ -76,12 +77,12 @@ const sumit = {
 
 ### ☁️ Cloud & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,sqlite&theme=dark" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,redis,sqlite&theme=dark" alt="Cloud" />
 </p>
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,githubactions,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,githubactions,postman,docker,kubernetes&theme=dark" alt="Tools" />
 </p>
 
 </div>
