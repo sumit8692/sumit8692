@@ -32,6 +32,7 @@
 - **[📄 SVG Scaling Laws](https://github.com/sumit8692/svg-scaling-laws)**: Research on transformer scaling for SVG generation
 - **[🤖 AI Resume Analyzer](https://github.com/sumit8692/ai-resume-analyzer)**: Automated resume evaluation utilizing LLMs
 - **[📺 YouTube Clone](https://github.com/sumit8692/youtube-clone)**: A responsive YouTube clone built using React, Firebase and Material UI
+- **[📺 Webflix](https://github.com/sumit8692/Netflix-GPT)**: An AI-powered Netflix clone with GPT-based smart search, built with React, Firebase and OpenAI — [Live Demo](https://webflix-1159d.web.app)
 - **[🐧 xv6 Operating System Scheduler](https://github.com/sumit8692/xv6-scheduler)**: Custom scheduler implementation for xv6
 
 <br/>
