@@ -30,7 +30,6 @@
 
 - **[🌳 Treestagram](https://github.com/sumit8692/treestagram)**: Instagram for Trees built with Svelte + Django
 - **[📄 SVG Scaling Laws](https://github.com/sumit8692/svg-scaling-laws)**: Research on transformer scaling for SVG generation
-- **[🤖 AI Resume Analyzer](https://github.com/sumit8692/ai-resume-analyzer)**: Automated resume evaluation utilizing LLMs
 - **[📺 YouTube Clone](https://github.com/sumit8692/youtube-clone)**: A responsive YouTube clone built using React, Firebase and Material UI
 - **[📺 Webflix](https://github.com/sumit8692/Netflix-GPT)**: An AI-powered Netflix clone with GPT-based smart search, built with React, Firebase and OpenAI — [Live Demo](https://webflix-1159d.web.app)
 - **[💼 Easily — Job Portal](https://github.com/sumit8692/Easily_JOB_PORTAL)**: Full-stack job portal connecting recruiters with top talent, built with Node.js, Express, and EJS
