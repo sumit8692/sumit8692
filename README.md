@@ -77,7 +77,7 @@ const sumit = {
 
 ### ☁️ Cloud & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,redis,sqlite&theme=dark" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,postgres,redis,sqlite&theme=dark" alt="Cloud" />
 </p>
 
 ### 🛠️ Tools
